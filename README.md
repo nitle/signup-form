@@ -1,5 +1,4 @@
-📝 Registration Form
-🇬🇧 English
+📝 Registration Form(English)
 A simple and modern registration form built with HTML, CSS, and JavaScript.
 
 ✨ Features:
